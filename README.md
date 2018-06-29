@@ -1,4 +1,4 @@
-# i2c-netcore
+# i2c-dotnet
 
 Is a .NET Core library for accessing the devices /dev/i2c-0 /dev/i2c-1 on a Raspberry Pi using a shared library [i2c-dotnet-wrapper](https://github.com/garciaolais/i2c-dotnet-wrapper) 
 
