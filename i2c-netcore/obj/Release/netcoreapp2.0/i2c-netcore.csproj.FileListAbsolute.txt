@@ -1,8 +1,0 @@
-c:\users\antonio\source\repos\i2c-netcore\i2c-netcore\bin\Release\netcoreapp2.0\i2c-netcore.deps.json
-c:\users\antonio\source\repos\i2c-netcore\i2c-netcore\bin\Release\netcoreapp2.0\i2c-netcore.dll
-c:\users\antonio\source\repos\i2c-netcore\i2c-netcore\bin\Release\netcoreapp2.0\i2c-netcore.pdb
-c:\users\antonio\source\repos\i2c-netcore\i2c-netcore\obj\Release\netcoreapp2.0\i2c-netcore.csproj.CoreCompileInputs.cache
-c:\users\antonio\source\repos\i2c-netcore\i2c-netcore\obj\Release\netcoreapp2.0\i2c-netcore.AssemblyInfoInputs.cache
-c:\users\antonio\source\repos\i2c-netcore\i2c-netcore\obj\Release\netcoreapp2.0\i2c-netcore.AssemblyInfo.cs
-c:\users\antonio\source\repos\i2c-netcore\i2c-netcore\obj\Release\netcoreapp2.0\i2c-netcore.dll
-c:\users\antonio\source\repos\i2c-netcore\i2c-netcore\obj\Release\netcoreapp2.0\i2c-netcore.pdb
